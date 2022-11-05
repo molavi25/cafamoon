@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/cafamoon/static/css/main.797418dd.css",
+    "main.js": "/cafamoon/static/js/main.6f737e27.js",
+    "static/media/logo.svg": "/cafamoon/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/cafamoon/index.html",
+    "main.797418dd.css.map": "/cafamoon/static/css/main.797418dd.css.map",
+    "main.6f737e27.js.map": "/cafamoon/static/js/main.6f737e27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.797418dd.css",
+    "static/js/main.6f737e27.js"
+  ]
+}
